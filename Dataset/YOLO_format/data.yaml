@@ -1,0 +1,26 @@
+# Dataset root directory
+path: "D:/PG/MS-AAI/SEM 1/Introduction to Artificial Intelligence/Final project/Dataset/YOLO_format"
+
+# Train/val/test image directories
+train: "D:/PG/MS-AAI/SEM 1/Introduction to Artificial Intelligence/Final project/Dataset/YOLO_format/train/images"
+val: "D:/PG/MS-AAI/SEM 1/Introduction to Artificial Intelligence/Final project/Dataset/YOLO_format/valid/images"
+test: "D:/PG/MS-AAI/SEM 1/Introduction to Artificial Intelligence/Final project/Dataset/YOLO_format/test/images"
+
+# Number of classes
+nc: 8
+
+# Class names
+names:
+  [
+    "Anger",
+    "Contempt",
+    "Disgust",
+    "Fear",
+    "Happy",
+    "Neutral",
+    "Sad",
+    "Surprise"
+  ]
+
+# Model configuration (optional)
+network: "yolov8n"
