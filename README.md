@@ -7,18 +7,28 @@ Dataset: Facial Expression Image Data AFFECTNET YOLO Format
 https://www.kaggle.com/datasets/fatihkgg/affectnet-yolo-format/data
 
 This project integrates multiple AI concepts, including:
+
 •	Computer Vision (CV): Object detection and facial feature extraction.
+
 •	Deep Learning: CNN architectures, transfer learning, and fine-tuning.
+
 •	Classification: Multi-class emotion classification using neural networks.
+
 •	Search and Optimization: Hyperparameter tuning and model selection.
+
 •	Ethical AI: Addressing dataset bias and ensuring fairness in emotion detection.
 
 
 The system will:
+
 •	Detect all faces in an uploaded image.
+
 •	Classify each face’s emotion and display a confidence score (e.g., “Happy – 92%”).
+
 •	Handle multiple people with varied expressions and lighting conditions.
+
 •	Display overall emotion percentages for the image (e.g., Happy 60%, Neutral 25%, Sad 15%).
+
 •	Optionally be extended later to support real-time webcam or video input.
 
 Example Output:
