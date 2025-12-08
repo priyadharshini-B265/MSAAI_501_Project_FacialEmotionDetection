@@ -23,8 +23,11 @@ The system will:
 
 Example Output:
 Person 1 → Happy (92%)
+
 Person 2 → Neutral (81%)
+
 Person 3 → Surprise (88%)
+
 Overall: Happy 33%, Neutral 33%, Surprise 33%
 
 
