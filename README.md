@@ -13,16 +13,18 @@ This project integrates multiple AI concepts, including:
 •	Search and Optimization: Hyperparameter tuning and model selection.
 •	Ethical AI: Addressing dataset bias and ensuring fairness in emotion detection.
 
+
 The system will:
 •	Detect all faces in an uploaded image.
 •	Classify each face’s emotion and display a confidence score (e.g., “Happy – 92%”).
 •	Handle multiple people with varied expressions and lighting conditions.
 •	Display overall emotion percentages for the image (e.g., Happy 60%, Neutral 25%, Sad 15%).
 •	Optionally be extended later to support real-time webcam or video input.
+
 Example Output:
 Person 1 → Happy (92%)
 Person 2 → Neutral (81%)
 Person 3 → Surprise (88%)
 Overall: Happy 33%, Neutral 33%, Surprise 33%
-<img width="468" height="541" alt="image" src="https://github.com/user-attachments/assets/41362f91-94bf-4fd7-8ce7-247f0ee19d4c" />
+
 
