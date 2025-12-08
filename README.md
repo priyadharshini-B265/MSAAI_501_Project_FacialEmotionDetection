@@ -4,7 +4,7 @@ Our project aims to develop an AI-based system that can automatically detect mul
 The system will combine face detection and emotion classification using deep learning models trained on the AffectNet dataset in YOLO format, capable of handling real-world group images.
 
 Dataset: Facial Expression Image Data AFFECTNET YOLO Format
-<img width="468" height="177" alt="image" src="https://github.com/user-attachments/assets/940108ae-1428-4465-a859-56e3a1a1d1f4" />
+https://www.kaggle.com/datasets/fatihkgg/affectnet-yolo-format/data
 
 This project integrates multiple AI concepts, including:
 •	Computer Vision (CV): Object detection and facial feature extraction.
